@@ -1,0 +1,24 @@
+#header-ownerp {
+    background: white;
+    height: 40px;
+    border-bottom: 2px solid rgba(224, 224, 224, 1);
+    margin-bottom: 15px;
+}
+
+.bodypagevul {
+    background-color: rgb(249, 249, 249);
+}
+ 
+.blockgraph {
+    display: flex;    
+    width: 100%;
+}
+
+.tableauvuln {
+    border: 1px solid rgba(224, 224, 224, 1);
+    background-color: white;
+    padding: 5px;
+    margin-top: 15px;
+    margin-left:10px;
+    margin-right: 10px;
+}
